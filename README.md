@@ -1,5 +1,5 @@
 # bootstrap-layout-real.html
-trying to work out github but it isn't working
+trying to work out github but github isn't working properly
 
 
 <!doctype html>
@@ -7,6 +7,22 @@ trying to work out github but it isn't working
  <head>
 <meta charset="UTF-8">
 <title>Azriel Hebrado</title>
+
+<style>
+
+container {
+background-color: white;
+}
+
+
+body {
+background-color: grey;
+
+}
+
+
+</style>
+
 
 <link rel = "stylesheet" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
 
@@ -19,6 +35,8 @@ trying to work out github but it isn't working
 </head>
 <body>
 
+
+
 <div class="container">
 
 <div class="row">
@@ -26,7 +44,7 @@ trying to work out github but it isn't working
   <div class="article">
   
   <h1>Media Watchdog Spokesman Sought On Embezzlement Charges</h1>
-<img src="http://i.onionstatic.com/onion/1560/4/16x9/600.jpg" />
+<img class="img-responsive" src="http://i.onionstatic.com/onion/1560/4/16x9/600.jpg" />
 <p class="byline">By Onion Staff</p>
 <p class="publish-time">Published June 24, 2011</p>
 <div class="story-text">
