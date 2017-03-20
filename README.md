@@ -9,6 +9,9 @@ trying to work out github but github isn't working properly
 <title>Azriel Hebrado</title>
 
 <style>
+selector {
+  property: value;
+}
 
 container {
 background-color: white;
