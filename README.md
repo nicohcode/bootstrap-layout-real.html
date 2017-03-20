@@ -8,6 +8,12 @@ trying to work out github but github isn't working properly
 <meta charset="UTF-8">
 <title>Azriel Hebrado</title>
 
+<link rel = "stylesheet" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+
+
+
+
+<link rel = "stylesheet" href = "bootstrap-layout.css" />
 <style>
 
 
@@ -25,12 +31,6 @@ background-color: grey;
 </style>
 
 
-<link rel = "stylesheet" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
-
-
-
-
-<link rel = "stylesheet" href = "bootstrap-layout.css" />
 
 </style>
 
