@@ -9,9 +9,7 @@ trying to work out github but github isn't working properly
 <title>Azriel Hebrado</title>
 
 <style>
-selector {
-  property: value;
-}
+
 
 container {
 background-color: white;
@@ -34,6 +32,7 @@ background-color: grey;
 
 <link rel = "stylesheet" href = "bootstrap-layout.css" />
 
+</style>
 
 </head>
 <body>
