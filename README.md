@@ -1,5 +1,5 @@
 # bootstrap-layout-real.html
-trying to work out github but github isn't working properly
+trying to work out github but github isn't working properly, i tried to do as much as i could
 
 
 <!doctype html>
